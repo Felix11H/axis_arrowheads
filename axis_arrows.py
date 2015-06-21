@@ -6,7 +6,7 @@ Simple demo showing how to make abstract
 plots with axis with arrowheads in matplotlib.
 
 Author:  Felix Hoffmann
-Website: http://about.me/felixhoffmann
+Website: http://felix11h.github.io/
 Year:    2014
 '''
 
