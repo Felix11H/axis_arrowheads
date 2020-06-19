@@ -1,0 +1,11 @@
+Create abstract plots with nice arrowheads in matplotlib.
+
+The command
+#+BEGIN_SRC 
+pthon axis_arrows.py
+#+END_SRC
+produces
+
+#+html: <p align="center"><img src="axis_arrows.png" /></p>
+
+Also see [[http://3diagramsperpage.wordpress.com/2014/05/25/arrowheads-for-axis-in-matplotlib/][3diagramsperpage.wordpress.com]] or [[https://felix11h.github.io/blog/arrowheads-matplotlib][felix11h.github.io]].
