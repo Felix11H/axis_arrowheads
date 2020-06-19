@@ -15,9 +15,9 @@ import pylab as pl
 
 fig = pl.figure()
 ax = fig.add_subplot(111)
-`
+
 x = pl.arange(-5,5,0.1)
-ax.plot(x, x**2-8.8)
+ax.plot(x, 1.5*x**3, 'g', lw=1.5)
 
 xmin, xmax = ax.get_xlim() 
 ymin, ymax = ax.get_ylim()
